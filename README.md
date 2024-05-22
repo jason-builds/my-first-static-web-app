@@ -2,7 +2,7 @@
   <br>
   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Microsoft_Azure.svg" alt="Azure" width="200"></a>
   <br>
-  Epam DevOps Azure Fundamentals course - Final Task
+  epam DevOps Azure Fundamentals Course - Final Task
   <br>
 </h1>
 
