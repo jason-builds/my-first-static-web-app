@@ -13,8 +13,9 @@
     <img src="https://badge.fury.io/js/electron-markdownify.svg"
          alt="Gitter">
   </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://forthebadge.com/images/badges/made-with-react.svg"></a>	[![forthebadge](https://forthebadge.com/images/badges/made-with-react.svg)](https://forthebadge.com)
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
+  <a href="https://react.dev/"><img src="https://forthebadge.com/images/badges/made-with-react.svg"></a>
+  <a href="https://azure.microsoft.com/en-us/products/app-service/"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/powered-by-azure-app-service.svg"></a>
+  <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/featured/featured-built-with-love.svg"></a>
   <a href="https://saythanks.io/to/bullredeyes@gmail.com">
       <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
   </a>
