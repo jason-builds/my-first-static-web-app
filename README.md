@@ -6,13 +6,14 @@
   <br>
 </h1>
 
-<h4 align="center">A simple guide to building your first static site with <a href="https://azure.microsoft.com/en-us/products/app-service/static" target="_blank"> Azure Static Web Apps </a>.</h4>
+<h4 align="center">A simple guide to building your first static site with <a href="https://azure.microsoft.com/en-us/products/app-service/static" target="_blank"> Azure Static Web Apps </a> </h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
     <img src="https://badge.fury.io/js/electron-markdownify.svg"
          alt="Gitter">
   </a>
+  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://forthebadge.com/images/badges/made-with-react.svg"></a>	[![forthebadge](https://forthebadge.com/images/badges/made-with-react.svg)](https://forthebadge.com)
   <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
   <a href="https://saythanks.io/to/bullredeyes@gmail.com">
       <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
