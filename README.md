@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Microsoft_Azure.svg" alt="Markdownify" width="200"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Microsoft_Azure.svg" alt="Azure" width="200"></a>
   <br>
-  Markdownify
+  Epam DevOps Azure Fundamentals course - Final Task
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">A simple guide to building your first static site with <a href="https://azure.microsoft.com/en-us/products/app-service/static" target="_blank"> Azure Static Web Apps </a>.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
