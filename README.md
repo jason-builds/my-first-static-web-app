@@ -59,7 +59,11 @@ You may choose from the No Framework, Angular, Blazor, React and Vue list of opt
 a. <a href="https://github.com/new?template_name=vanilla-basic&template_owner=staticwebdev"title="https://github.com/staticwebdev/vanilla-basic/generate"></a>
 
 ```
-
+<div class="box">
+    <h2>Box Title</h2>
+    <p>This is some content inside the box.</p>
+    <a href="#">Learn More</a>
+</div>
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
