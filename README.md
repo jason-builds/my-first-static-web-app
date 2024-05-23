@@ -50,23 +50,45 @@
 ## Create a repository
 This article uses a Github template repository to make it easy for you to get started. The template features a starter app to deploy to Azure Static Web Apps.
 
-You may choose from the No Framework, Angular, Blazor, React and Vue list of options below (choose whichever one want to work with):
+You may choose from the No Framework, Angular, Blazor, React and Vue list of options below (<b>choose one</b>):
 
-## <h3>No Framework</h3>
-```bash
+   <table>
+        <thead>
+            <tr>
+                <th align="center">Framework</th>
+                <th align="center">Repo</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a> <strong>No Framework</strong></td>
+                <td align="center"><a href="https://dev.azure.com/mseng/PipelineTools/_build/latest?definitionId=7634" rel="nofollow"><img src="https://camo.githubusercontent.com/a7501ef8cf6294e9011b5c4efcc23280c16f472e8d5accd62819b093f8d94e43/68747470733a2f2f6465762e617a7572652e636f6d2f6d73656e672f506970656c696e65546f6f6c732f5f617069732f6275696c642f7374617475732f617a7572652d706970656c696e65732d7461736b732e63692d77696e646f7773" alt="Build &amp; Test" data-canonical-src="https://dev.azure.com/mseng/PipelineTools/_apis/build/status/azure-pipelines-tasks.ci-windows" style="max-width: 100%;"></a></td>
+            </tr>
+            <tr>
+                <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Angular_full_color_logo.svg"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Angular_full_color_logo.svg" alt="Angular" width="36"></a> <strong>Angular</strong></td>
+                <td align="center"><a href="https://dev.azure.com/mseng/PipelineTools/_build/latest?definitionId=7635" rel="nofollow"><img src="https://camo.githubusercontent.com/d1dae6ae68b6625a6ef27f4d354d79a6d56a7af4e7112b8ad54d5d85cab89e79/68747470733a2f2f6465762e617a7572652e636f6d2f6d73656e672f506970656c696e65546f6f6c732f5f617069732f6275696c642f7374617475732f617a7572652d706970656c696e65732d7461736b732e63692d6d61636f73" alt="Build &amp; Test" data-canonical-src="https://dev.azure.com/mseng/PipelineTools/_apis/build/status/azure-pipelines-tasks.ci-macos" style="max-width: 100%;"></a></td>
+            </tr>
+            <tr>
+                <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Blazor.png"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Blazor.png" alt="Blazor" width="36"></a> <strong>Blazor</strong></td>
+                <td align="center"><a href="https://dev.azure.com/mseng/PipelineTools/_build/latest?definitionId=7636" rel="nofollow"><img src="https://camo.githubusercontent.com/930bbab6753c486b6b2dc0bdd637b76f2d92b89f57f9e0649ec1d9173fabafc5/68747470733a2f2f6465762e617a7572652e636f6d2f6d73656e672f506970656c696e65546f6f6c732f5f617069732f6275696c642f7374617475732f617a7572652d706970656c696e65732d7461736b732e63692d6c696e7578" alt="Build &amp; Test" data-canonical-src="https://dev.azure.com/mseng/PipelineTools/_apis/build/status/azure-pipelines-tasks.ci-linux" style="max-width: 100%;"></a></td>
+            </tr>
+            <tr>
+                <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/React-icon.svg"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/React-icon.svg" alt="React" width="36"></a> <strong>React</strong></td>
+                <td align="center"><a href="https://dev.azure.com/mseng/PipelineTools/_build/latest?definitionId=7636" rel="nofollow"><img src="https://camo.githubusercontent.com/930bbab6753c486b6b2dc0bdd637b76f2d92b89f57f9e0649ec1d9173fabafc5/68747470733a2f2f6465762e617a7572652e636f6d2f6d73656e672f506970656c696e65546f6f6c732f5f617069732f6275696c642f7374617475732f617a7572652d706970656c696e65732d7461736b732e63692d6c696e7578" alt="Build &amp; Test" data-canonical-src="https://dev.azure.com/mseng/PipelineTools/_apis/build/status/azure-pipelines-tasks.ci-linux" style="max-width: 100%;"></a></td>
+            </tr>
+            <tr>
+                <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/vue.js-logo-brandlogo.net_-512x512.png"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/vue.js-logo-brandlogo.net_-512x512.png" alt="Vue" width="36"></a> <strong>Vue</strong></td>
+                <td align="center"><a href="https://dev.azure.com/mseng/PipelineTools/_build/latest?definitionId=7636" rel="nofollow"><img src="https://camo.githubusercontent.com/930bbab6753c486b6b2dc0bdd637b76f2d92b89f57f9e0649ec1d9173fabafc5/68747470733a2f2f6465762e617a7572652e636f6d2f6d73656e672f506970656c696e65546f6f6c732f5f617069732f6275696c642f7374617475732f617a7572652d706970656c696e65732d7461736b732e63692d6c696e7578" alt="Build &amp; Test" data-canonical-src="https://dev.azure.com/mseng/PipelineTools/_apis/build/status/azure-pipelines-tasks.ci-linux" style="max-width: 100%;"></a></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
 
-1. Navigate to the following location to create a new repository:
-a. <a href="https://github.com/new?template_name=vanilla-basic&template_owner=staticwebdev"title="https://github.com/staticwebdev/vanilla-basic/generate"></a>
 
-```
-<div class="box">
-    <h2>Box Title</h2>
-    <p>This is some content inside the box.</p>
-    <a href="#">Learn More</a>
-</div>
 > **Note**
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
-
+> <br>
+> If you choose to not use a specific framework (option 1), please be advised that Azure Static Web Apps requires at least one HTML file to create a web app. The repository you create in this step includes a single <i>index.html</i> file.
 
 ## Download
 
