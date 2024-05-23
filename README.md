@@ -54,19 +54,10 @@ You may choose from the No Framework, Angular, Blazor, React and Vue list of opt
 
 ## <h3>No Framework</h3>
 ```bash
+
 1. Navigate to the following location to create a new repository:
-a. [https://github.com/staticwebdev/vanilla-basic/generate](https://github.com/new?template_name=vanilla-basic&template_owner=staticwebdev)
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+a. <a href="https://github.com/new?template_name=vanilla-basic&template_owner=staticwebdev"title="https://github.com/staticwebdev/vanilla-basic/generate"></a>
 
-# Go into the repository
-$ cd electron-markdownify
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
 ```
 
 > **Note**
