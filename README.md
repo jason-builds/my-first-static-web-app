@@ -9,69 +9,61 @@
 <h4 align="center">A simple guide to building your first static site with <a href="https://azure.microsoft.com/en-us/products/app-service/static" target="_blank"> Azure Static Web Apps </a> </h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://forthebadge.com/images/badges/made-with-react.svg"></a>	[![forthebadge](https://forthebadge.com/images/badges/made-with-react.svg)](https://forthebadge.com)
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-  </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
+  <a href="https://react.dev/"><img src="https://forthebadge.com/images/badges/made-with-react.svg"></a>
+  <a href="https://azure.microsoft.com/en-us/products/app-service/"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/powered-by-azure-app-service.svg"></a>
+  <a href="https://forthebadge.com"><img src="http://forthebadge.com/images/badges/built-with-love.svg"></a>
 </p>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#prerequisites">Prerequisites</a> •
+  <a href="#create-a-repository">Create a repository</a> •
+  <a href="#clone-the-repository">Clone the repository</a> •
+  <a href="#install-the-azure-static-web-apps-extension">Install the Azure Static Web Apps extensionRelated</a> •
+  <a href="#create-a-static-web-app-in-the-10-easy-steps">Create a static web app in the 10 easy steps</a>
 </p>
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
 ## Key Features
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+* <b>Web hosting</b> for static content like HTML, CSS, JavaScript, and images.
+* <b>Integrated API</b> support provided by managed Azure Functions, with the option to link an existing function app, web app, container app, or API Management instance using a standard account. If you need your API in a region that doesn't support [managed functions](https://learn.microsoft.com/en-us/azure/static-web-apps/apis-functions), you can [bring your own functions](https://learn.microsoft.com/en-us/azure/static-web-apps/functions-bring-your-own) to your app.
+* <b>First-class GitHub and Azure DevOps integration</b> that allows repository changes to trigger builds and deployments.
+* <b>Globally distributed</b> static content, putting content closer to your users.
+* <b>Free SSL certificates</b>, which are automatically renewed.
+* <b>Custom domains</b> to provide branded customizations to your app.
+* <b>Seamless security model</b> with a reverse-proxy when calling APIs, which requires no CORS configuration.
+* <b>Authentication provider integrations</b> with Microsoft Entra ID and GitHub.
+* <b>Customizable authorization role definition</b> and assignments.
+* <b>Back-end routing rules</b> enabling full control over the content and routes you serve.
+* <b>Generated staging versions</b> powered by pull requests enabling preview versions of your site before publishing.
+* <b>CLI support</b> through the [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/staticwebapp?view=azure-cli-latest) to create cloud resources, and via the [Azure Static Web Apps CLI](https://github.com/Azure/static-web-apps-cli#azure-static-web-apps-cli) for local development.
 
-## How To Use
+## Prerequisites
+* [GitHub](https://github.com/) account
+* [Azure](https://portal.azure.com/) account
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Azure Static Web Apps extension for Visual Studio Code](https://code.visualstudio.com/)
+* [Install Git](https://www.git-scm.com/downloads)
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+## Create a repository
+This article uses a Github template repository to make it easy for you to get started. The template features a starter app to deploy to Azure Static Web Apps.
 
+You may choose from the No Framework, Angular, Blazor, React and Vue list of options below (choose whichever one want to work with):
+
+## <h3>No Framework</h3>
 ```bash
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
 
-# Go into the repository
-$ cd electron-markdownify
+1. Navigate to the following location to create a new repository:
+a. <a href="https://github.com/new?template_name=vanilla-basic&template_owner=staticwebdev"title="https://github.com/staticwebdev/vanilla-basic/generate"></a>
 
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
 ```
-
+<div class="box">
+    <h2>Box Title</h2>
+    <p>This is some content inside the box.</p>
+    <a href="#">Learn More</a>
+</div>
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
