@@ -9,19 +9,9 @@
 <h4 align="center">A simple guide to building your first static site with <a href="https://azure.microsoft.com/en-us/products/app-service/static" target="_blank"> Azure Static Web Apps </a> </h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
-  </a>
   <a href="https://react.dev/"><img src="https://forthebadge.com/images/badges/made-with-react.svg"></a>
   <a href="https://azure.microsoft.com/en-us/products/app-service/"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/powered-by-azure-app-service.svg"></a>
   <a href="https://forthebadge.com"><img src="http://forthebadge.com/images/badges/built-with-love.svg"></a>
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-  </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
 </p>
 
 <p align="center">
