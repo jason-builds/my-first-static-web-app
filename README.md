@@ -16,11 +16,11 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#prerequisites">Prerequisites</a> •
+  <a href="#create-a-repository">Create a repository</a> •
+  <a href="#clone-the-repository">Clone the repository</a> •
+  <a href="#install-the-azure-static-web-apps-extension">Install the Azure Static Web Apps extensionRelated</a> •
+  <a href="#create-a-static-web-app-in-the-10-easy-steps">Create a static web app in the 10 easy steps</a>
 </p>
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
