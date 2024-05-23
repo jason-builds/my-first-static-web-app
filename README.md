@@ -28,7 +28,7 @@
 ## Key Features
 
 * <b>Web hosting</b> for static content like HTML, CSS, JavaScript, and images.
-* <b>Integrated API</b> support provided by managed Azure Functions, with the option to link an existing function app, web app, container app, or API Management instance using a standard account. If you need your API in a region that doesn't support [managed functions](https://learn.microsoft.com/en-us/azure/static-web-apps/apis-functions), you can bring your own functions to your app.
+* <b>Integrated API</b> support provided by managed Azure Functions, with the option to link an existing function app, web app, container app, or API Management instance using a standard account. If you need your API in a region that doesn't support [managed functions](https://learn.microsoft.com/en-us/azure/static-web-apps/apis-functions), you can [bring your own functions](https://learn.microsoft.com/en-us/azure/static-web-apps/functions-bring-your-own) to your app.
 * <b>First-class GitHub and Azure DevOps integration</b> that allows repository changes to trigger builds and deployments.
 * <b>Globally distributed</b> static content, putting content closer to your users.
 * <b>Free SSL certificates</b>, which are automatically renewed.
@@ -38,9 +38,14 @@
 * <b>Customizable authorization role definition</b> and assignments.
 * <b>Back-end routing rules</b> enabling full control over the content and routes you serve.
 * <b>Generated staging versions</b> powered by pull requests enabling preview versions of your site before publishing.
-* <b>CLI support</b> through the Azure CLI to create cloud resources, and via the Azure Static Web Apps CLI for local development.
+* <b>CLI support</b> through the [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/staticwebapp?view=azure-cli-latest) to create cloud resources, and via the [Azure Static Web Apps CLI](https://github.com/Azure/static-web-apps-cli#azure-static-web-apps-cli) for local development.
 
-## How To Use
+## Prerequisites
+* [GitHub](https://github.com/) account
+* [Azure](https://portal.azure.com/) account
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Azure Static Web Apps extension for Visual Studio Code](https://code.visualstudio.com/)
+* [Install Git](https://www.git-scm.com/downloads)
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
