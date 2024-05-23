@@ -27,23 +27,18 @@
 
 ## Key Features
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+* <br>Web hosting<br> for static content like HTML, CSS, JavaScript, and images.
+* Integrated API support provided by managed Azure Functions, with the option to link an existing function app, web app, container app, or API Management instance using a standard account. If you need your API in a region that doesn't support managed functions, you can bring your own functions to your app.
+* First-class GitHub and Azure DevOps integration that allows repository changes to trigger builds and deployments.
+* Globally distributed static content, putting content closer to your users.
+* Free SSL certificates, which are automatically renewed.
+* Custom domains to provide branded customizations to your app.
+* Seamless security model with a reverse-proxy when calling APIs, which requires no CORS configuration.
+* Authentication provider integrations with Microsoft Entra ID and GitHub.
+* Customizable authorization role definition and assignments.
+* Back-end routing rules enabling full control over the content and routes you serve.
+* Generated staging versions powered by pull requests enabling preview versions of your site before publishing.
+* CLI support through the Azure CLI to create cloud resources, and via the Azure Static Web Apps CLI for local development.
 
 ## How To Use
 
