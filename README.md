@@ -28,17 +28,17 @@
 ## Key Features
 
 * <b>Web hosting</b> for static content like HTML, CSS, JavaScript, and images.
-* Integrated API support provided by managed Azure Functions, with the option to link an existing function app, web app, container app, or API Management instance using a standard account. If you need your API in a region that doesn't support managed functions, you can bring your own functions to your app.
-* First-class GitHub and Azure DevOps integration that allows repository changes to trigger builds and deployments.
-* Globally distributed static content, putting content closer to your users.
-* Free SSL certificates, which are automatically renewed.
-* Custom domains to provide branded customizations to your app.
-* Seamless security model with a reverse-proxy when calling APIs, which requires no CORS configuration.
-* Authentication provider integrations with Microsoft Entra ID and GitHub.
-* Customizable authorization role definition and assignments.
-* Back-end routing rules enabling full control over the content and routes you serve.
-* Generated staging versions powered by pull requests enabling preview versions of your site before publishing.
-* CLI support through the Azure CLI to create cloud resources, and via the Azure Static Web Apps CLI for local development.
+* <b>Integrated API</b> support provided by managed Azure Functions, with the option to link an existing function app, web app, container app, or API Management instance using a standard account. If you need your API in a region that doesn't support [managed functions](https://learn.microsoft.com/en-us/azure/static-web-apps/apis-functions), you can bring your own functions to your app.
+* <b>First-class GitHub and Azure DevOps integration</b> that allows repository changes to trigger builds and deployments.
+* <b>Globally distributed</b> static content, putting content closer to your users.
+* <b>Free SSL certificates</b>, which are automatically renewed.
+* <b>Custom domains</b> to provide branded customizations to your app.
+* <b>Seamless security model</b> with a reverse-proxy when calling APIs, which requires no CORS configuration.
+* <b>Authentication provider integrations</b> with Microsoft Entra ID and GitHub.
+* <b>Customizable authorization role definition</b> and assignments.
+* <b>Back-end routing rules</b> enabling full control over the content and routes you serve.
+* <b>Generated staging versions</b> powered by pull requests enabling preview versions of your site before publishing.
+* <b>CLI support</b> through the Azure CLI to create cloud resources, and via the Azure Static Web Apps CLI for local development.
 
 ## How To Use
 
