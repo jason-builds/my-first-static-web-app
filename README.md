@@ -47,9 +47,15 @@
 * [Azure Static Web Apps extension for Visual Studio Code](https://code.visualstudio.com/)
 * [Install Git](https://www.git-scm.com/downloads)
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+## Create a repository
+This article uses a Github template repository to make it easy for you to get started. The template features a starter app to deploy to Azure Static Web Apps.
 
+You may choose from the No Framework, Angular, Blazor, React and Vue list of options below (choose whichever one want to work with):
+
+## <h3>No Framework</h3>
 ```bash
+1. Navigate to the following location to create a new repository:
+a. [https://github.com/staticwebdev/vanilla-basic/generate](https://github.com/new?template_name=vanilla-basic&template_owner=staticwebdev)
 # Clone this repository
 $ git clone https://github.com/amitmerchant1990/electron-markdownify
 
