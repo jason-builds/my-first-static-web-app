@@ -56,29 +56,41 @@ You may choose from the No Framework, Angular, Blazor, React and Vue list of opt
         <thead>
             <tr>
                 <th align="center">Framework</th>
+		<th align="center">Step 1</th>
                 <th align="center">Repo</th>
+		<th align="center">Step 2</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a> <strong>No Framework</strong></td>
-                <td align="center"><a href="https://dev.azure.com/mseng/PipelineTools/_build/latest?definitionId=7634" rel="nofollow"><img src="https://camo.githubusercontent.com/a7501ef8cf6294e9011b5c4efcc23280c16f472e8d5accd62819b093f8d94e43/68747470733a2f2f6465762e617a7572652e636f6d2f6d73656e672f506970656c696e65546f6f6c732f5f617069732f6275696c642f7374617475732f617a7572652d706970656c696e65732d7461736b732e63692d77696e646f7773" alt="Build &amp; Test" data-canonical-src="https://dev.azure.com/mseng/PipelineTools/_apis/build/status/azure-pipelines-tasks.ci-windows" style="max-width: 100%;"></a></td>
+                <td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Navigate to the following location to create a new repository:</td>
+		<td align="center"><a href="https://github.com/new?template_name=vanilla-basic&template_owner=staticwebdev" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2Fstaticwebdev%2Fvanilla-basic?color=blue&link=https%3A%2F%2Fgithub.com%2Fnew%3Ftemplate_name%3Dvanilla-basic%26template_owner%3Dstaticwebdev" alt="Create a new repository" data-canonical-src="https://github.com/new?template_name=vanilla-basic&template_owner=staticwebdev" style="max-width: 100%;"></a></td>
+		<td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Name your repository <strong>my-first-static-web-app</strong></td>
             </tr>
             <tr>
                 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Angular_full_color_logo.svg"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Angular_full_color_logo.svg" alt="Angular" width="36"></a> <strong>Angular</strong></td>
-                <td align="center"><a href="https://dev.azure.com/mseng/PipelineTools/_build/latest?definitionId=7635" rel="nofollow"><img src="https://camo.githubusercontent.com/d1dae6ae68b6625a6ef27f4d354d79a6d56a7af4e7112b8ad54d5d85cab89e79/68747470733a2f2f6465762e617a7572652e636f6d2f6d73656e672f506970656c696e65546f6f6c732f5f617069732f6275696c642f7374617475732f617a7572652d706970656c696e65732d7461736b732e63692d6d61636f73" alt="Build &amp; Test" data-canonical-src="https://dev.azure.com/mseng/PipelineTools/_apis/build/status/azure-pipelines-tasks.ci-macos" style="max-width: 100%;"></a></td>
+                <td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Navigate to the following location to create a new repository:</td>
+		<td align="center"><a href="https://github.com/new?template_name=angular-basic&template_owner=staticwebdev" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2Fstaticwebdev%2Fangular-basic%2Fgenerate?color=blue&link=https%3A%2F%2Fgithub.com%2Fnew%3Ftemplate_name%3Dvanilla-basic%26template_owner%3Dstaticwebdev" alt="Create a repository" data-canonical-src="https://github.com/new?template_name=angular-basic&template_owner=staticwebdev" style="max-width: 100%;"></a></td>
+		<td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Name your repository <strong>my-first-static-web-app</strong></td>
             </tr>
             <tr>
                 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Blazor.png"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Blazor.png" alt="Blazor" width="36"></a> <strong>Blazor</strong></td>
-                <td align="center"><a href="https://dev.azure.com/mseng/PipelineTools/_build/latest?definitionId=7636" rel="nofollow"><img src="https://camo.githubusercontent.com/930bbab6753c486b6b2dc0bdd637b76f2d92b89f57f9e0649ec1d9173fabafc5/68747470733a2f2f6465762e617a7572652e636f6d2f6d73656e672f506970656c696e65546f6f6c732f5f617069732f6275696c642f7374617475732f617a7572652d706970656c696e65732d7461736b732e63692d6c696e7578" alt="Build &amp; Test" data-canonical-src="https://dev.azure.com/mseng/PipelineTools/_apis/build/status/azure-pipelines-tasks.ci-linux" style="max-width: 100%;"></a></td>
+                <td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Navigate to the following location to create a new repository:</td>
+		<td align="center"><a href="https://github.com/new?template_name=blazor-basic&template_owner=staticwebdev" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2Fstaticwebdev%2Fblazor-basic%2Fgenerate?color=blue&link=https%3A%2F%2Fgithub.com%2Fnew%3Ftemplate_name%3Dvanilla-basic%26template_owner%3Dstaticwebdev" alt="Create a repository" data-canonical-src="https://github.com/new?template_name=blazor-basic&template_owner=staticwebdev" style="max-width: 100%;"></a></td>
+		<td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Name your repository <strong>my-first-static-web-app</strong></td>
             </tr>
             <tr>
                 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/React-icon.svg"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/React-icon.svg" alt="React" width="36"></a> <strong>React</strong></td>
-                <td align="center"><a href="https://dev.azure.com/mseng/PipelineTools/_build/latest?definitionId=7636" rel="nofollow"><img src="https://camo.githubusercontent.com/930bbab6753c486b6b2dc0bdd637b76f2d92b89f57f9e0649ec1d9173fabafc5/68747470733a2f2f6465762e617a7572652e636f6d2f6d73656e672f506970656c696e65546f6f6c732f5f617069732f6275696c642f7374617475732f617a7572652d706970656c696e65732d7461736b732e63692d6c696e7578" alt="Build &amp; Test" data-canonical-src="https://dev.azure.com/mseng/PipelineTools/_apis/build/status/azure-pipelines-tasks.ci-linux" style="max-width: 100%;"></a></td>
+                <td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Navigate to the following location to create a new repository:</td>
+		<td align="center"><a href="https://github.com/new?template_name=react-basic&template_owner=staticwebdev" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2Fstaticwebdev%2Freact-basic%2Fgenerate?color=blue&link=https%3A%2F%2Fgithub.com%2Fnew%3Ftemplate_name%3Dvanilla-basic%26template_owner%3Dstaticwebdev" alt="Build &amp; Test" Create a repository" data-canonical-src="https://github.com/new?template_name=react-basic&template_owner=staticwebdev" style="max-width: 100%;"></a></td>
+		<td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Name your repository <strong>my-first-static-web-app</strong></td>
             </tr>
             <tr>
                 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/vue.js-logo-brandlogo.net_-512x512.png"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/vue.js-logo-brandlogo.net_-512x512.png" alt="Vue" width="36"></a> <strong>Vue</strong></td>
-                <td align="center"><a href="https://dev.azure.com/mseng/PipelineTools/_build/latest?definitionId=7636" rel="nofollow"><img src="https://camo.githubusercontent.com/930bbab6753c486b6b2dc0bdd637b76f2d92b89f57f9e0649ec1d9173fabafc5/68747470733a2f2f6465762e617a7572652e636f6d2f6d73656e672f506970656c696e65546f6f6c732f5f617069732f6275696c642f7374617475732f617a7572652d706970656c696e65732d7461736b732e63692d6c696e7578" alt="Build &amp; Test" data-canonical-src="https://dev.azure.com/mseng/PipelineTools/_apis/build/status/azure-pipelines-tasks.ci-linux" style="max-width: 100%;"></a></td>
+                <td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Navigate to the following location to create a new repository:</td>
+		<td align="center"><a href="https://github.com/new?template_name=vue-basic&template_owner=staticwebdev" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2Fstaticwebdev%2Fvue-basic%2Fgenerate?color=blue&link=https%3A%2F%2Fgithub.com%2Fnew%3Ftemplate_name%3Dvanilla-basic%26template_owner%3Dstaticwebdev" alt="Create a repository" data-canonical-src="https://github.com/new?template_name=vue-basic&template_owner=staticwebdev" style="max-width: 100%;"></a></td>
+		<td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Name your repository <strong>my-first-static-web-app</strong></td>
             </tr>
         </tbody>
     </table>
@@ -88,66 +100,163 @@ You may choose from the No Framework, Angular, Blazor, React and Vue list of opt
 
 > **Note**
 > <br>
-> If you choose to not use a specific framework (option 1), please be advised that Azure Static Web Apps requires at least one HTML file to create a web app. The repository you create in this step includes a single <i>index.html</i> file.
+> If you choose to not use a specific framework (<strong>No Framework</strong> option), please be advised that Azure Static Web Apps requires at least one HTML file to create a web app. The repository you create in this step includes a single <i>index.html</i> file.
 
-## Download
-
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
-
-## Emailware
-
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
-
-## Credits
-
-This software uses the following open source packages:
-
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
-
-## Related
-
-[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
-
-## Support
-
-<a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-<p>Or</p> 
-
-<a href="https://www.patreon.com/amitmerchant">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-## You may also like...
-
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
-
-## License
-
-MIT
-
----
-
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+Select <strong>Create repository.</strong>
+<br>
+<img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/create-repo.png" alt="Clone repo">
 
 
+## Clone the repository
+With the repository created in your GitHub account, clone the project to your local machine using the following command.
+``` bash
+git clone https://github.com/<YOUR_GITHUB_ACCOUNT_NAME>/my-first-static-web-app.git
+```
+Make sure to replace <strong><YOUR_GITHUB_ACCOUNT_NAME></strong> with your GitHub username.
 
+Next, open Visual Studio Code and go to <strong>File > Open Folder</strong> to open the cloned repository in the editor.
 
+## Install Azure Static Web Apps extension
 
+If you don't already have the [Azure Static Web Apps extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps) extension, you can install it in Visual Studio Code.
 
+<ol>
+	<li>Select <b>View > Extensions.</b></li>
+	<li>In the <b>Search Extensions in Marketplace</b>, type <b>Azure Static Web Apps.</b></li>
+	<li>Select <b>Install</b> for <b>Azure Static Web Apps.</b></li>
+</ol>
 
+## Create a static web app
+<ol>
+	<li>Inside Visual Studio Code, select the Azure logo in the Activity Bar to open the Azure extensions window.</li>
+	<img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/az-black-logo.png" alt="Azure small black logo">
+	<br>
+	<a>
+	<b>Note</b>
+		<br>
+	You are required to sign in to Azure and GitHub in Visual Studio Code to continue. If you are not already authenticated, the extension prompts you to sign in to both services during the creation process.
+	</a>
+	<li>Select <kbd>F1</kbd> to open the Visual Studio Code command palette.</li>
+	<li>Enter <strong>Create static web app</strong> in the command box.</li>
+	<li>Select <i>Azure Static Web Apps: Create static web app....</i></li>
+	<li>Select your Azure subscription.</li>
+	<li>Enter <strong>my-first-static-web-app</strong> for the application name.</li>
+	<li>Select the region closest to you.</li>
+	<li>Enter the settings values that match your framework choice.</li>
+	<br>
+	<table>
+        <thead>
+            <tr>
+                <th align="center">Framework</th>
+		<th align="center">Setting</th>
+		<th align="center">Value</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a> <strong>No Framework</strong></td>
+                <td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Framework</td>
+		<td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Select <strong>Custom</strong></td>
+            </tr>
+	    <tr>
+                <td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a> <strong>No Framework</strong></td>
+                <td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Location of application code</td>
+		<td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Enter <code>/src</code></td>
+            </tr>
+	     <tr>
+                <td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a> <strong>No Framework</strong></td>
+                <td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Build location</td>
+		<td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Enter <code>/src</code></td>
+            </tr>
+            <tr>
+                <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Angular_full_color_logo.svg"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Angular_full_color_logo.svg" alt="Angular" width="36"></a> <strong>Angular</strong></td>
+                <td><a target="_blank" rel="noopener noreferrer" alt="Angular" style="max-width: 100%;"></a>Framework</td>
+		<td><a target="_blank" rel="noopener noreferrer" alt="Angular" style="max-width: 100%;"></a>Select <strong>Angular</strong></td>
+            </tr>
+	    <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Angular_full_color_logo.svg"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Angular_full_color_logo.svg" alt="Angular" width="36"></a> <strong>Angular</strong></td>
+                <td><a target="_blank" rel="noopener noreferrer" alt="Angular" style="max-width: 100%;"></a>Location of application code</td>
+		<td><a target="_blank" rel="noopener noreferrer" alt="Angular" style="max-width: 100%;"></a>Enter <code>/</code></td>
+            </tr>
+	    <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Angular_full_color_logo.svg"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Angular_full_color_logo.svg" alt="Angular" width="36"></a> <strong>Angular</strong></td>
+                <td><a target="_blank" rel="noopener noreferrer" alt="Angular" style="max-width: 100%;"></a>Build location</td>
+		<td><a target="_blank" rel="noopener noreferrer" alt="Angular" style="max-width: 100%;"></a>Enter <code>dist/angular-basic</code></td>
+	    </tr>
+            <tr>
+                <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Blazor.png"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Blazor.png" alt="Blazor" width="36"></a> <strong>Blazor</strong></td>
+                <td><a target="_blank" rel="noopener noreferrer" alt="Blazor" style="max-width: 100%;"></a>Framework</td>
+		<td><a target="_blank" rel="noopener noreferrer" alt="Blazor" style="max-width: 100%;"></a>Select <strong>Blazor</strong></td>
+            </tr>
+	    <tr>
+                <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Blazor.png"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Blazor.png" alt="Blazor" width="36"></a> <strong>Blazor</strong></td>
+                <td><a target="_blank" rel="noopener noreferrer" alt="Blazor" style="max-width: 100%;"></a>Location of application code</td>
+		<td><a target="_blank" rel="noopener noreferrer" alt="Blazor" style="max-width: 100%;"></a>Enter <code>client</code></td>
+            </tr>
+	    <tr>
+                <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Blazor.png"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/Blazor.png" alt="Blazor" width="36"></a> <strong>Blazor</strong></td>
+                <td><a target="_blank" rel="noopener noreferrer" alt="Blazor" style="max-width: 100%;"></a>Build location</td>
+		<td><a target="_blank" rel="noopener noreferrer" alt="Blazor" style="max-width: 100%;"></a>Enter <code>wwwwroot</code></td>
+            </tr>
+            <tr>
+                <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/React-icon.svg"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/React-icon.svg" alt="React" width="36"></a> <strong>React</strong></td>
+                <td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Framework</td>
+		<td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Select <strong>React</strong></td>
+            </tr>
+		<tr>
+                <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/React-icon.svg"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/React-icon.svg" alt="React" width="36"></a> <strong>React</strong></td>
+                <td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Location of application code</td>
+		<td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Enter <code>/</code></td>
+            </tr>
+		<tr>
+                <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/React-icon.svg"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/React-icon.svg" alt="React" width="36"></a> <strong>React</strong></td>
+                <td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Build location</td>
+		<td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Enter <code>build</code></td>
+            </tr>
+            <tr>
+                <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/vue.js-logo-brandlogo.net_-512x512.png"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/vue.js-logo-brandlogo.net_-512x512.png" alt="Vue" width="36"></a> <strong>Vue</strong></td>
+                <td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Framework</td>
+				<td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Select <strong>Vue.js</strong></td>
+            </tr>
+		  <tr>
+                <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/vue.js-logo-brandlogo.net_-512x512.png"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/vue.js-logo-brandlogo.net_-512x512.png" alt="Vue" width="36"></a> <strong>Vue</strong></td>
+                <td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Location of application code</td>
+				<td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Enter <code>/</code></td>
+            </tr>
+		  <tr>
+                <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/vue.js-logo-brandlogo.net_-512x512.png"><img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/vue.js-logo-brandlogo.net_-512x512.png" alt="Vue" width="36"></a> <strong>Vue</strong></td>
+                <td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Build location</td>
+				<td><a target="_blank" rel="noopener noreferrer" alt="No Framework" style="max-width: 100%;"></a>Enter <code>dist</code></td>
+            </tr>
+        </tbody>
+    </table>
+	<li>Once the app is created, a confirmation notification is shown in Visual Studio Code.</li>
+	<br>
+ 	<img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/vs-1.png" alt="vs-1">
+	<br>
+	If GitHub presents you with a button labeled <strong>Enable Actions on this repository</strong>, select the button to allow the build action to run on your repository.
+	<br>
+	As the deployment is in progress, the Visual Studio Code extension reports the build status to you.
+	<br>
+	<img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/vs-2.png" alt="vs-2">
+	<br>
+	Once the deployment is complete, you can navigate directly to your website.
+	<br>
+	<li>To view the website in the browser, right-click the project in the Static Web Apps extension, and select <strong>Browse Site.</strong></li>
+	<br>
+	<img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/vs-3.png" alt="vs-3">
+</ol>
+<br>
 
-# React basic
+## Clean up resources
+<br>
 
-[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build [React](https://reactjs.org/) apps in minutes. Use this repo with the [React quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=react) to build and customize a new static site.
+If you're not going to continue to use this application, you can delete the Azure Static Web Apps instance through the extension.
+<br>
+In the Visual Studio Code Azure window, return to the <i>Resources</i> section and under <i>Static Web Apps</i>, right-click <strong>my-first-static-web-app</strong> and select <strong>Delete</strong>.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Before cleaning up your resources...
+<ol>
+	<li>Verify your webapps's settings</li>
+	<img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/vs-1.png" alt="vs-1">
+	<li>...And why not? ... Visit your newly created site!</li
+        <img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/vs-1.png" alt="vs-1">
+</ol>
