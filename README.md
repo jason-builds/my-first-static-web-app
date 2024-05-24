@@ -247,16 +247,16 @@ If you don't already have the [Azure Static Web Apps extension for Visual Studio
 <br>
 
 ## Clean up resources
-<br>
-
 If you're not going to continue to use this application, you can delete the Azure Static Web Apps instance through the extension.
 <br>
 In the Visual Studio Code Azure window, return to the <i>Resources</i> section and under <i>Static Web Apps</i>, right-click <strong>my-first-static-web-app</strong> and select <strong>Delete</strong>.
 
 ## Before cleaning up your resources...
 <ol>
-	<li>Verify your webapps's settings</li>
-	<img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/vs-1.png" alt="vs-1">
-	<li>...And why not? ... Visit your newly created site!</li
-        <img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/vs-1.png" alt="vs-1">
+	<li>You may want to verify your webapps's settings</li>
+	<img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/my-webapp.png" alt="vs-1">
+	<li>...And why not? ... Visit your newly created site!</li>
+        <img src="https://github.com/jason-builds/my-first-static-web-app/blob/main/README_images/my-site.png" alt="vs-1">
 </ol>
+
+## Made with enthusiasm and craft!
